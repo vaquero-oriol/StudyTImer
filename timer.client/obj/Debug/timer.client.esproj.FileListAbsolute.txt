@@ -1,0 +1,1 @@
+/home/enderv/RiderProjects/StudyTImer/timer.client/obj/Debug/timer.client.esproj.CoreCompileInputs.cache

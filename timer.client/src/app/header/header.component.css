@@ -1,0 +1,11 @@
+.navbar-dropdown {
+    display: none;
+  }
+  
+  .navbar-item.has-dropdown.is-active .navbar-dropdown {
+    display: block;
+  }
+  
+  .navbar-burger {
+    cursor: pointer;
+  }
