@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:4200",
 "RedirectUrl": "",
 "LaunchCommand": "npm start",
-"WorkingDirectory": "C:\\Users\\Oriol\\source\\repos\\src\\Timer\\Timer.Server\\..\\timer.client",
+"WorkingDirectory": "/home/enderv/RiderProjects/StudyTImer/Timer.Server/../timer.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }
