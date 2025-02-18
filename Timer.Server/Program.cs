@@ -1,5 +1,15 @@
 var builder = WebApplication.CreateBuilder(args);
 
+
+
+
+
+
+builder.Configuration
+
+    .AddJsonFile("appsettings.json", optional: true, reloadOnChange: true)
+    .AddJsonFile("appsettings.Development.json", optional: true, reloadOnChange: true);
+
 // Add services to the container.
 
 builder.Services.AddControllers();
